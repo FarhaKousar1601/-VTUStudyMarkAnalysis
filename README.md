@@ -45,6 +45,12 @@ This project is a Python-based analysis tool for VTU (Visvesvaraya Technological
 1. Follow the prompts to input your details and marks.
 2. Execute the cells in the Jupyter Notebook to perform the analysis.
 
+
+## Connect with Us
+
+Join our WhatsApp channel for updates: [WhatsApp Channel](https://whatsapp.com/channel/0029Va4n5jDInlqO8uUEmq0r)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
